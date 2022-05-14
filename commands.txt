@@ -1,0 +1,27 @@
+1) git -- version 
+
+2) git help config
+
+3) mkdir school
+
+4) cd school
+
+5) git init 
+
+[ now go to the path and waha notepas se text file bana kr save krna hai and name it as demo.text]
+
+6) git status
+
+7) git add demo.txt
+
+8) git commit -m "comitting text files"
+
+9) git config --global user.username Mandira1325
+
+[open github --> create repository --> name it as school_demo --> copy path]
+
+10) git remote add origin pastelink
+
+11) git push origin master 
+
+done
